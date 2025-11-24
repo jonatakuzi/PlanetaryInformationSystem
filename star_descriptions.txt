@@ -1,0 +1,9 @@
+SUN|The Sun is the star at the center of our solar system.
+MERCURY|Mercury is the smallest planet.
+VENUS|Venus has an extremely dense atmosphere.
+EARTH|Earth is our home planet with abundant liquid water.
+MARS|Mars is known as the Red Planet.
+JUPITER|Jupiter is the largest planet with a Great Red Spot.
+SATURN|Saturn has prominent ring systems.
+URANUS|Uranus rotates on its side.
+NEPTUNE|Neptune has supersonic winds.
